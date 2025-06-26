@@ -39,15 +39,15 @@ Metadata:
 Parameters:
   GitHubRepositoryUrl:
     Type: String    
-    Default : https://github.com/aws-samples/sample-tagger.git
+    Default : https://github.com/AO69838/spv-tag-migration.git
    
   AppUser:
     Type: String    
-    Default : mail@example.com
+    Default : Anibal.Olivera@supervielle.com.ar
 
   IPv4CIDR:
     Type: String    
-    Default : "192.168.1.0/24"
+    Default : "10.210.4.0/22"
 
   IPv6CIDR:
     Type: String    
